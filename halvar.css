@@ -2,7 +2,7 @@
 @font-face {
   font-family: "HalvarBreit-Rg";
 
-  src: url("./fonts/HalvarBreitschriftRegular.woff2") format("woff2"); /* Modern Browsers */
+  src: url("./HalvarBreitschriftRegular.woff2") format("woff2"); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }
@@ -10,7 +10,7 @@
 @font-face {
   font-family: "HalvarBreit-Bd";
 
-  src: url("./fonts/HalvarBreitschriftBold.woff2") format("woff2"); /* Modern Browsers */
+  src: url("./HalvarBreitschriftBold.woff2") format("woff2"); /* Modern Browsers */
   font-weight: bold;
   font-style: normal;
 }
