@@ -1,16 +1,16 @@
 /* font converted using font-converter.net. thank you! */
 @font-face {
   font-family: "HalvarBreit-Rg";
-
-  src: url("./HalvarBreitschriftRegular.woff2") format("woff2"); /* Modern Browsers */
+  src: url("../fonts/HalvarBreitschriftRegular.woff2") format("woff2"), /* Modern Browsers */
+       url("./fonts/HalvarBreitschriftRegular.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "HalvarBreit-Bd";
-
-  src: url("./HalvarBreitschriftBold.woff2") format("woff2"); /* Modern Browsers */
+  src: url("../fonts/HalvarBreitschriftBold.woff2") format("woff2"), /* Modern Browsers */
+       url("./fonts/HalvarBreitschriftBold.woff") format("woff");
   font-weight: bold;
   font-style: normal;
 }
